@@ -1,5 +1,11 @@
 # Jamshed Cargo — барои Google Play
 
+## 👉 [ИН ҶО ПАХШ КУНЕД — файл зеркашӣ мешавад](https://github.com/ibrohim656565/jamshed-cargo-release/raw/main/JamshedCargo.aab)
+
+Файли `JamshedCargo.aab` (58 МБ) ба папкаи «Загрузки / Downloads» меравад. Онро накушоед — рост ба Google Play Console бор кунед.
+
+---
+
 ## ⬇️ [Зеркашии файли AAB (версияи навтарин)](https://github.com/ibrohim656565/jamshed-cargo-release/releases/latest)
 
 Пайвандро кушоед → дар поён, бахши **Assets** → файли `JamshedCargo-v….aab`-ро пахш кунед.
