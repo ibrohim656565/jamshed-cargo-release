@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| Номи пакет | `tj.jamshed.cargo` |
+| Номи пакет | `tj.jamshedcargo` |
 | Android | 7.0 ва навтар |
 | Сиёсати махфият | https://82-23-138-60.sslip.io/privacy.html |
 | Нест кардани ҳисоб | https://82-23-138-60.sslip.io/delete-account.html |
