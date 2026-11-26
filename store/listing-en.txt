@@ -1,0 +1,21 @@
+НАЗВАНИЕ / APP NAME:
+Jamshed Cargo
+
+КРАТКОЕ ОПИСАНИЕ / SHORT DESCRIPTION (71/80):
+Track your cargo, estimate delivery costs and find warehouse addresses.
+
+ПОЛНОЕ ОПИСАНИЕ / FULL DESCRIPTION:
+Jamshed Cargo helps cargo customers follow parcels from China to Tajikistan. Add a tracking number and see delivery stages in one place.
+
+Use the app to:
+• check warehouse-confirmed status updates and shipment history;
+• view estimated arrival dates when the cargo operator has configured them;
+• estimate delivery costs by weight and, for truck, by volume — with each warehouse's own price;
+• copy the China warehouse address with your personal customer code;
+• find the pickup address and opening hours;
+• show a parcel's QR code when collecting a ready shipment;
+• read cargo news and offers and ask the helper cargo questions.
+
+Warehouse staff update the shipment status. Dates and prices are estimates; the final charge is determined after weighing. Notifications and helper services depend on the cargo operator's configuration and your device permissions.
+
+The app interface is available in Tajik and Russian. Sign in with your phone number and password to access your own parcels.
